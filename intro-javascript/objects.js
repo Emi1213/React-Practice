@@ -12,4 +12,8 @@ const person = {
   },
 };
 
+const persona2 = { ...person };
+persona2.name = "Juan";
+
 console.log(person);
+console.log(persona2);
