@@ -35,3 +35,5 @@ arr[1](); // Hello World
 const [name, setName] = useState("Goku");
 console.log(name); // Goku
 setName(); // Hello Goku
+
+//This is the way to use the useState function
